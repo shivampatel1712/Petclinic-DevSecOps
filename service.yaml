@@ -1,3 +1,4 @@
+#Added later for k8s
 apiVersion: v1
 kind: Service
 metadata:
