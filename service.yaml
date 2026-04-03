@@ -1,4 +1,4 @@
-#Added later for k8s
+#Added later for k8s service.yaml
 apiVersion: v1
 kind: Service
 metadata:
